@@ -1,2 +1,2 @@
 ### text editor
-you can write the text and download it as pdf
+you can write the text and download it as pdf updating
