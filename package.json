@@ -1,6 +1,6 @@
 {
   "name": "editor-app",
-  "homepage": "http://{AbuKhaled22}.github.io/{text-editor}",
+  "homepage": "http://AbuKhaled22.github.io/text-editor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
